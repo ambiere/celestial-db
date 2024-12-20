@@ -1,3 +1,3 @@
 ## Celestial Bodies Database
 
-A dump file of a Celestial Bodies Database from freeCodeCamp "Build a Celestial Bodies Database" project.
+A dump file of a Celestial Bodies Database from freeCodeCamp's "Build a Celestial Bodies Database" project.
